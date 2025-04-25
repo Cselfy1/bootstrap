@@ -1,0 +1,40 @@
+{
+    "navbar": {
+      "home": "Home",
+      "products": "Products",
+      "contacts": "Contacts",
+      "cart": "Cart"
+    },
+    "products": {
+      "title": "PC Components",
+      "search": "Search products...",
+      "category": {
+        "all": "All"
+      },
+      "addToCart": "Add to Cart",
+      "new": "NEW",
+      "lowStock": "Low Stock",
+      "noProducts": "No products found matching your criteria.",
+      "pagination": {
+        "previous": "Previous",
+        "next": "Next"
+      }
+    },
+    "contacts": {
+      "contactUs": "Contact Us",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "thankYou": "Thank you for your message! We'll get back to you soon.",
+      "storeLocation": "Store Location",
+      "address": "Address",
+      "hours": "Hours",
+      "contactInfo": "Contact Info",
+      "connect": "Connect With Us"
+    },
+    "footer": {
+      "copyright": "© 2025 Copyright"
+    }
+  }

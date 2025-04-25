@@ -1,0 +1,40 @@
+{
+    "navbar": {
+      "home": "ホーム",
+      "products": "製品",
+      "contacts": "お問い合わせ",
+      "cart": "カート"
+    },
+    "products": {
+      "title": "PC部品",
+      "search": "製品を検索...",
+      "category": {
+        "all": "すべて"
+      },
+      "addToCart": "カートに追加",
+      "new": "新着",
+      "lowStock": "在庫僅少",
+      "noProducts": "条件に一致する製品が見つかりません。",
+      "pagination": {
+        "previous": "前へ",
+        "next": "次へ"
+      }
+    },
+    "contacts": {
+      "contactUs": "お問い合わせ",
+      "name": "お名前",
+      "email": "メールアドレス",
+      "subject": "件名",
+      "message": "メッセージ",
+      "send": "送信",
+      "thankYou": "メッセージをお送りいただき、ありがとうございます。近日中にご連絡いたします。",
+      "storeLocation": "店舗情報",
+      "address": "住所",
+      "hours": "営業時間",
+      "contactInfo": "連絡先",
+      "connect": "ソーシャルメディア"
+    },
+    "footer": {
+      "copyright": "© 2025 著作権"
+    }
+  }
